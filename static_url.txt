@@ -1,1 +1,2 @@
-https://simangaliso-crypto.github.io/static-site-task/
+
+https://github.com/SIMANGALISO-crypto/static-site-task.git
