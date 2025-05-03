@@ -5,8 +5,7 @@ This is a simple static website deployed to GitHub Pages as part of a practical 
 
 ## How to view
 
-Visit the deployed site at: https://simangaliso-crypto.github.io/static-site-task/
-
+Visit the deployed site at: https://github.com/SIMANGALISO-crypto/static-site-task.git
 ## What’s Included
 
 - `index.html` - The main HTML file for the homepage
